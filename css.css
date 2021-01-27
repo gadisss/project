@@ -1,0 +1,126 @@
+.navbar
+{
+    background-image: linear-gradient(to left, #111d5e, #c70039);
+}
+#nav-bar
+{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    
+    
+}
+.navbar-brand img{
+    height: 50px;
+    padding-left: 20px;
+}
+
+.navbar-nav li{
+    padding: 0 10px;
+
+}
+.navbar-nav li a{
+    color: white !important;
+    font-weight: 600;
+    float: right;
+    text-align: left;
+}
+.fa-bars{
+    color: #fff;
+    font-size: 30px !important; 
+}
+
+.awal{
+    overflow: hidden;
+}
+.paris{
+    text-align: center;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+.ndas{
+    text-align: center;
+}
+.texx{
+    text-align: center;
+}
+.bi-house{
+     color:white;
+    background-image: linear-gradient(to left, #111d5e, #c70039);
+}
+.bi-phone{
+    color:white;
+    background-image: linear-gradient(to left, #111d5e, #c70039);
+}
+.bi-envelope{
+    color:white;
+    background-image: linear-gradient(to left, #111d5e, #c70039);
+}
+  textarea {
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid lightgray;
+    border-radius: 4px;
+    background-color: white;
+    font-size: 16px;
+    resize: none;
+  }
+  .footercok{
+    background-image: linear-gradient(to left, #111d5e, #c70039);
+    color:white;
+
+}
+.footer-img{
+    width: 100%;
+
+}
+.footer-box{
+    padding: 20px;
+
+}
+.footer-box img{
+    width: 240px;
+    margin-bottom: 40px;
+    margin-top: 60px;
+}
+.footer-boxx{
+    margin-top: 6vw;
+}
+.footer-boxx .fa{
+    margin-right: 8px;
+    font-size: 25px;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    padding-top: 7px;
+    border-radius: 2px;
+    background-image: linear-gradient(to left, #111d5e, #c70039);
+}
+.footer-boxxx {
+    margin-top: 6vw;
+}
+.footer-boxxx .form-control{
+    box-shadow: none !important;
+    border: none;
+    border-radius: 0;
+    margin-top: 25px;
+    max-width: 250px;
+}
+.footer-boxxx .btn-primary{
+    box-shadow: none !important;
+    border: paleturquoise;
+    border-radius: 0;
+    margin-top: 25px;
+    background-image: linear-gradient(to left, #111d5e, #c70039);
+}
+hr{
+    background-color: #fff;
+
+}
+.copyright{
+    margin-bottom: 0;
+    padding-bottom: 20px;
+    text-align: center;
+}
